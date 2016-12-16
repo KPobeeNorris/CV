@@ -1,12 +1,14 @@
-## Katherine Pobee-Norris
+### Katherine Pobee-Norris
+
+[Skills](#skills) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
 **Junior Developer - Full Stack**
 
 I have been interested in tech from a young age; I was lucky enough to have a nerdy dad and have taken after him.  My education was geared towards a career in tech, but during my A-levels I chose to go down the Social care route instead as wanted to support those in crisis.  I had been trying to get up the courage to switch to a career in tech for a while, but it took experiencing a tragic situation at work to make me realise that there is no time to waste in this life and you need to go after the things you're passionate about.
 
-I have spent 10 years working in highly stressful situations providing advice and support to young people with complex needs, and learnt the value of working in a team to effectively provide services.  My default setting is laughter and firmly believe that having fun at work also makes us better at our jobs.  I am also loyal and set high standards for myself in whatever job I do.  I would love an opportunity to be part of a company that values their staff, and would support me to develop my skills even further, so that I can be a valuable member of the team.
+I have spent over a decade years working in highly stressful situations providing advice and support to young people with complex needs, and learnt the value of working in a team to effectively provide services.  My default setting is laughter and firmly believe that having fun at work also makes us better at our jobs.  I am also loyal and set high standards for myself in whatever job I do.  I would love an opportunity to be part of a company that values their staff, and would support me to develop my skills even further, so that I can be a valuable member of the team.
 
-## Skills
+### Skills
 
 In my last job I held the role of a Housing and Support Worker for a Local Authority, where my role included:
 
@@ -26,11 +28,11 @@ By law any 16 or 17 year old who walked into the office, and told us they were h
 
 INSERT TABLE OF PROJECTS HERE!
 
-## Education
+### Education
 
 #### Makers Academy (Sept to Dec 2016)
 
-- Graduate from an intensive 12 week bootcamp where I have been taught how to learn effectively/efficiently.  Maker's Academy is all about creating job-ready junior devs with the right attitude, and understanding of development practices, so I can fit right into your organisation!
+- Graduate from an intensive 16 week bootcamp where I have been taught how to learn effectively/efficiently.  Maker's Academy is all about creating job-ready junior devs with the right attitude, and understanding of development practices, so I can fit right into your organisation!
 - Convert to TDD and well-versed in Agile performance, as well as XP values.
 - Ruby, Rails, Javascript & Java.  Rspec, Capybara, JUnit & Jasmine.
 
@@ -38,7 +40,7 @@ INSERT TABLE OF PROJECTS HERE!
 
 - 2.1 Youth and Community Studies (BA Hons)
 
-## Employment & Experience
+### Employment & Experience
 
 Royal Borough of Greenwich (Oct 2013 to Sept 2016)    
 Housing Options and Support Officer (1st Base - Young People's Team)
@@ -49,7 +51,7 @@ Support Officer / Team Leader
 - Role of Support Officer included working with the same range of service users as my Housing and Support worker job.
 - Team Leader -- Managing a staff team of six for two years involving managing poor performance, poor attendance and redundancy; completing quarterly monitoring statistics, and liaising with partner agencies on a daily basis.
 
-## Blurb
+### Blurb
 - My heroes include my wife and my sister-in-laws, and Louise Belcher.
 - My big life achievement was going travelling around Australia and New Zealand for 18 months.
 - I love gaming and binge watching great tv shows.
