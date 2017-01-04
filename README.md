@@ -4,9 +4,9 @@
 
 **Junior Developer - Full Stack**
 
-I have been interested in tech from a young age; I was lucky enough to have a nerdy dad and have taken after him.  My education was geared towards a career in tech, but during my A-levels I chose to go down the Social care route instead as wanted to support those in crisis.  I had been trying to get up the courage to switch to a career in tech for a while, but it took experiencing a tragic situation at work to make me realise that there is no time to waste in this life and you need to go after the things you're passionate about.
+I have been interested in tech from a young age; I was lucky enough to have a nerdy dad and have taken after him.  My education was geared towards a career in tech, but during my A-levels I chose to go down the Social Care route instead as wanted to support those in crisis.  I had been trying to get up the courage to switch to a career in tech for a while, but it took experiencing a tragic situation at work to make me realise that there is no time to waste in this life and you need to go after the things you're passionate about.
 
-I have spent over a decade years working in highly stressful situations providing advice and support to young people with complex needs, and learnt the value of working in a team to effectively provide services.  My default setting is laughter and firmly believe that having fun at work also makes us better at our jobs.  I am also loyal and set high standards for myself in whatever job I do.  I would love an opportunity to be part of a company that values their staff, and would support me to develop my skills even further, so that I can be a valuable member of the team.
+I have spent over a decade working in highly stressful situations providing advice and support to young people with complex needs, and learnt the value of working in a team to effectively provide services.  My default setting is laughter and I firmly believe that having fun at work also makes us better at our jobs.  I am also loyal and set high standards for myself in whatever job I do.  I would love an opportunity to be part of a company that values their staff, and would support me to develop my skills even further, so that I can be a valuable member of the team.
 
 ## Skills
 
