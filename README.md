@@ -8,7 +8,7 @@ I have been interested in tech from a young age; I was lucky enough to have a ne
 
 I have spent over a decade years working in highly stressful situations providing advice and support to young people with complex needs, and learnt the value of working in a team to effectively provide services.  My default setting is laughter and firmly believe that having fun at work also makes us better at our jobs.  I am also loyal and set high standards for myself in whatever job I do.  I would love an opportunity to be part of a company that values their staff, and would support me to develop my skills even further, so that I can be a valuable member of the team.
 
-### Skills
+## Skills
 
 In my last job I held the role of a Housing and Support Worker for a Local Authority, where my role included:
 
@@ -26,9 +26,16 @@ I believe that my most valuable and transferable skill is my ability to communic
 
 By law any 16 or 17 year old who walked into the office, and told us they were homeless, were not allowed to leave unless we knew they had somewhere to stay that night.  Young people could present at any time, including 5 minutes before the office closed, but the outcome had to be the same; find them somewhere to stay.  Initially it was crucial to gather as much information as possible from the young person to assess their situation and then establish somewhere for them to stay for at least a night; this meant contacting their families, various agencies, including Children's Services, to locate bed spaces.  Once they had somewhere to stay it was then down to me to check my workload to prioritise the assessment of that young person.  It was crucial that I remained calm, and focused during these times, to get the best outcome for each client.    
 
-INSERT TABLE OF PROJECTS HERE!
+## Projects
 
-### Education
+For a complete list, see my [GitHub](https://github.com/KPobeeNorris?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [ChoreMatick](https://github.com/ChoreMatick) | An Amazon Alexa skill which enables a parent to set chores for their child to complete over a period of time.  The child is able to request their chore on a given day, tell Alexa once they have completed it and the parent is sent a notification to check if it has been done.  Once verified the parent uses a unique pin number to confirm the chore has been completed. | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB, JUnit, Mockito and Codeship |
+|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)| An Instagram clone which was completed in a two day period.  The website allows users to sign up/create an account, or sign in using Facebook and once signed up they are able to add photos, edit, review, comment and tag posts they like, which includes a counter.  This project has been deployed via Heroku [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts) and has been linked to AWS S3 for image storage. | Rails, Rspec|
+
+## Education
 
 #### Makers Academy (Sept to Dec 2016)
 
@@ -40,7 +47,7 @@ INSERT TABLE OF PROJECTS HERE!
 
 - 2.1 Youth and Community Studies (BA Hons)
 
-### Employment & Experience
+## Employment & Experience
 
 Royal Borough of Greenwich (Oct 2013 to Sept 2016)    
 Housing Options and Support Officer (1st Base - Young People's Team)
@@ -51,7 +58,7 @@ Support Officer / Team Leader
 - Role of Support Officer included working with the same range of service users as my Housing and Support worker job.
 - Team Leader -- Managing a staff team of six for two years involving managing poor performance, poor attendance and redundancy; completing quarterly monitoring statistics, and liaising with partner agencies on a daily basis.
 
-### Blurb
+## Blurb
 - My heroes include my wife and my sister-in-laws, and Louise Belcher.
 - My big life achievement was going travelling around Australia and New Zealand for 18 months.
 - I love gaming and binge watching great tv shows.
