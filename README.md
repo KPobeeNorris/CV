@@ -1,6 +1,6 @@
 ### Katherine Pobee-Norris
 
-[Skills](#skills) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
 **Junior Developer - Full Stack**
 
