@@ -1,4 +1,4 @@
-#### Katherine Pobee-Norris
+### Katherine Pobee-Norris
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
@@ -22,7 +22,7 @@ This experience enabled me to develop a unique set of skills that I know will be
 
 I believe that my most valuable and transferable skill is my ability to communicate with people.  I have experience of working alongside professionals from various organisations, and in a variety of settings.  This involved attending meetings at differing levels, from a case discussion, to Child Protection conferences, and to attending court to advocate for a young person.  There was also the crucial skill in assessing young people's needs, where you wanted to get important information that they may be reluctant to share.  This put an emphasis on quickly building rapport, adapting questions to how the person presented to you, and rapidly being able to use the information provided to work out a list of prioritised actions to ensure the best possible outcome for that young person.  
 
-##### Working under pressure & being able to prioritise workloads
+**Working under pressure & being able to prioritise workloads**
 
 By law any 16 or 17 year old who walked into the office, and told us they were homeless, were not allowed to leave unless we knew they had somewhere to stay that night.  Young people could present at any time, including 5 minutes before the office closed, but the outcome had to be the same; find them somewhere to stay.  Initially it was crucial to gather as much information as possible from the young person to assess their situation and then establish somewhere for them to stay for at least a night; this meant contacting their families, various agencies, including Children's Services, to locate bed spaces.  Once they had somewhere to stay it was then down to me to check my workload to prioritise the assessment of that young person.  It was crucial that I remained calm, and focused during these times, to get the best outcome for each client.    
 
