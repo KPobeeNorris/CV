@@ -39,9 +39,13 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 ##### Makers Academy (Sept to Dec 2016)
 
-- Graduate from an intensive 16 week bootcamp where I have been taught how to learn effectively/efficiently.  Maker's Academy is all about creating job-ready junior devs with the right attitude, and understanding of development practices, so I can fit right into your organisation!
-- Convert to TDD and well-versed in Agile performance, as well as XP values.
-- Ruby, Rails, Javascript & Java.  Rspec, Capybara, JUnit & Jasmine.
+Maker's Academy is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  There is a 4 week pre-course designed to get everyone to the same starting point, and this is followed by 12 weeks on-site learning.  The curriculum included:
+
+- Agile working practices, XP values & pair programming
+- Learning languages - during my time at Maker's I mainly covered Ruby, Javascript and Java, but the main skill is learning how to learn; and therefore be language agnostic
+- TDD - I have experience including Rspec, Jasmine, Capybara and JUnit
+- Version control via GitHub
+- Other experiences included AWS (S3, Lambda, DynamoDB & Alexa Skills Kit), Rails, Sintara, Heroku, command line, Postgres, HTML and CSS.
 
 ##### University College of St Mark and St John's (Sept 2000 to Jun 2003)
 
