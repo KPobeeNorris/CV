@@ -39,7 +39,7 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 ##### Makers Academy (Sept to Dec 2016)
 
-Maker's Academy is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  There is a 4 week pre-course designed to get everyone to the same starting point, and this is followed by 12 weeks on-site learning.  The curriculum included:
+[Maker's Academy](http://employers.makersacademy.com/) is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  There is a 4 week pre-course designed to get everyone to the same starting point, and this is followed by 12 weeks on-site learning.  The curriculum included:
 
 - Agile working practices, XP values & pair programming
 - Learning languages - during my time at Maker's I mainly covered Ruby, Javascript and Java, but the main skill is learning how to learn; and therefore be language agnostic
@@ -51,7 +51,7 @@ Maker's Academy is Europe's leading Web Developer bootcamp; a 16 week intensive 
 
 - 2.1 Youth and Community Studies (BA Hons)
 
-#### Employment & Experience
+#### Employment and Experience
 
 Royal Borough of Greenwich (Oct 2013 to Sept 2016)    
 Housing Options and Support Officer (1st Base - Young People's Team)
