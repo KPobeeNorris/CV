@@ -58,7 +58,6 @@ Royal Borough of Greenwich (Oct 2013 to Sept 2016)
 Housing Options and Support Officer (1st Base - Young People's Team)
 - Assessing young people aged 16-25 who presented as homeless, or at risk of homelessness, and with other complex needs e.g. mental health issues, substance misuse, experiencing/witnessing domestic violence, gang members, and so forth.  
 - Working with families with the aim of returning young people home to their parents; where this was not possible then making recommendations as to where best to house them.
-- Undertaking joint assessments with Children's Services where appropriate, and liaising with multiple agencies to ensure safeguarding and relevant information sharing.
 
 St Christopher's (Jun 2006 to Sept 2013)   
 Support Officer / Team Leader
