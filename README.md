@@ -41,10 +41,10 @@ During the final project we wanted the parent to be able to confirm once a chore
 
 [Maker's Academy](http://employers.makersacademy.com/) is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  
 
-Agile working practices, XP values & pair programming
-OOP - Ruby, Javascript, Rails and Java
-TDD - Rspec, Jasmine, Capybara and JUnit
-Version control via GitHub
+Agile working practices, XP values & pair programming<br>
+OOP - Ruby, Javascript, Rails and Java<br>
+TDD - Rspec, Jasmine, Capybara and JUnit<br>
+Version control via GitHub<br>
 Other areas covered - AWS (S3, Lambda, DynamoDB & Alexa Skills Kit), Sintara, Heroku, command line, Postgres, HTML and CSS.
 
 ##### University College of St Mark and St John's (Sept 2000 to Jun 2003)
