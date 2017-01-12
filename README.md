@@ -24,7 +24,7 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 **Communication**
 
-I believe that my most valuable and transferable skill is my ability to communicate with people.  I have over a decade of experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.   
+I believe that my most valuable and transferable skill is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.   
 
 **Working under pressure & being able to prioritise workloads**
 
@@ -32,7 +32,7 @@ In my previous role I had to assess homeless young people who approached our ser
 
 **Creative Thinker**
 
-During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition so there was the chance the child could just confirm their own chore.  I implemented a pin code system so that each time a chore was created a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
+During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition.  I implemented a pin code system so that each time a chore was created, a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
 
 
 ### Education
