@@ -30,8 +30,8 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 | Project                       | Description                                             | Technologies                       |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [ChoreMatick](https://github.com/KPobeeNorris/ChoreMatick/tree/master/chorematick)      | An Amazon Alexa skill for parents to set their child chores; project ['advert'](https://www.youtube.com/watch?v=jK6xQBi9nB4).                  | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB   | JUnit, Mockito and Codeship       |
-| |[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                 | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
+| [ChoreMatick](https://github.com/KPobeeNorris/ChoreMatick/tree/master/chorematick)      | An Amazon Alexa skill for parents to set their child chores; project ['advert'] here! (https://www.youtube.com/watch?v=jK6xQBi9nB4).                  | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB   | JUnit, Mockito and Codeship       |
+|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
 
 
 #### Education
