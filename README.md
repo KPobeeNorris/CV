@@ -1,6 +1,6 @@
 ### Katherine Pobee-Norris
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
 **Full Stack Junior Developer**
 
@@ -9,20 +9,6 @@ I have been interested in tech from a young age; I was lucky enough to have a ne
 I am loyal, seriously hard working, set high standards for whatever job I do, am able to work well with others, and most importantly I love bringing laughter to the people I work with.  I am looking for a role that will challenge me to keep learning, and to work for a company that values the wellbeing of it's employees.  
 
 
-#### Skills
-
-- **Communication**
-
-I believe that my most valuable and transferable skill is my ability to communicate with people.  I have over a decade of experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.   
-
-- **Working under pressure & being able to prioritise workloads**
-
-In my previous role I had to assess homeless young people who approached our service.  This involved gathering as much information as possible before liaising with their family and external agencies e.g. Children's Services. Each case was completely unique and it was crucial to remain calm and focused; as well as continually re-prioritising my caseload to work with those most in need first.
-
-- **Creative Thinker**
-
-During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition so there was the chance the child could just confirm their own chore.  I implemented a pin code system so that each time a chore was created a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
-
 #### Projects
 
 For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?tab=repositories).
@@ -30,8 +16,23 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 | Project                       | Description                                             | Technologies                       |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [ChoreMatick](https://github.com/KPobeeNorris/ChoreMatick/tree/master/chorematick)      | An Amazon Alexa skill for parents to set their child chores; project ['advert'] here! (https://www.youtube.com/watch?v=jK6xQBi9nB4).                  | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB   | JUnit, Mockito and Codeship       |
-|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
+| [ChoreMatick](https://github.com/KPobeeNorris/ChoreMatick/tree/master/chorematick)      | An Amazon Alexa skill for parents to set their child chores; watch our ['advert'](https://www.youtube.com/watch?v=jK6xQBi9nB4) here.                  | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB   | JUnit, Mockito and Codeship       |
+|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts) | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
+
+
+#### Skills
+
+**Communication**
+
+I believe that my most valuable and transferable skill is my ability to communicate with people.  I have over a decade of experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.   
+
+**Working under pressure & being able to prioritise workloads**
+
+In my previous role I had to assess homeless young people who approached our service.  This involved gathering as much information as possible before liaising with their family and external agencies e.g. Children's Services. Each case was completely unique and it was crucial to remain calm and focused; as well as continually re-prioritising my caseload to work with those most in need first.
+
+**Creative Thinker**
+
+During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition so there was the chance the child could just confirm their own chore.  I implemented a pin code system so that each time a chore was created a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
 
 
 #### Education
@@ -50,6 +51,7 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 - 2.1 Youth and Community Studies (BA Hons)
 
+
 #### Employment and Experience
 
 Royal Borough of Greenwich (Oct 2013 to Sept 2016)    
@@ -62,6 +64,7 @@ St Christopher's (Jun 2006 to Sept 2013)
 Support Officer / Team Leader
 - Role of Support Officer included working with the same range of service users as my Housing and Support worker job.
 - Team Leader -- Managing a staff team of six for two years involving managing poor performance, poor attendance and redundancy; completing quarterly monitoring statistics, and liaising with partner agencies on a daily basis.
+
 
 #### Blurb
 - My heroes include my wife and my sister-in-laws, and Louise Belcher.
