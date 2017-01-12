@@ -28,7 +28,7 @@ I believe that my most valuable and transferable skill is my ability to communic
 
 **Working under pressure & being able to prioritise workloads**
 
-In my previous role I had to assess homeless young people who approached our service.  This involved gathering as much information as possible before liaising with their family and external agencies e.g. Children's Services. Each case was completely unique and it was crucial to remain calm and focused; as well as continually re-prioritising my caseload to work with those most in need first.
+My previous roles required working with individuals and families at the point of crisis.  I am used to working within strict timescales; information gathering; making detailed assessments; prioritising complex needs to be fulfilled by limited budgets and negotiating best outcomes with a range of supporting organisations.  I am able to analyse information and situations easily and have strong communication skills which I’m able to apply to a diverse range of people.
 
 **Creative Thinker**
 
