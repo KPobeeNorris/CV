@@ -1,4 +1,4 @@
-### Katherine Pobee-Norris
+## Katherine Pobee-Norris
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
@@ -9,7 +9,7 @@ I have been interested in tech from a young age; I was lucky enough to have a ne
 I am loyal, seriously hard working, set high standards for whatever job I do, am able to work well with others, and most importantly I love bringing laughter to the people I work with.  I am looking for a role that will challenge me to keep learning, and to work for a company that values the wellbeing of it's employees.  
 
 
-#### Projects
+### Projects
 
 For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?tab=repositories).
 
@@ -20,7 +20,7 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 |[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts) | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
 
 
-#### Skills
+### Skills
 
 **Communication**
 
@@ -35,24 +35,24 @@ In my previous role I had to assess homeless young people who approached our ser
 During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition so there was the chance the child could just confirm their own chore.  I implemented a pin code system so that each time a chore was created a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
 
 
-#### Education
+### Education
 
 ##### Makers Academy (Sept to Dec 2016)
 
 [Maker's Academy](http://employers.makersacademy.com/) is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  
 
-- Agile working practices, XP values & pair programming
-- OOP - Ruby, Javascript, Rails and Java
-- TDD - Rspec, Jasmine, Capybara and JUnit
-- Version control via GitHub
-- Other areas covered - AWS (S3, Lambda, DynamoDB & Alexa Skills Kit), Sintara, Heroku, command line, Postgres, HTML and CSS.
+Agile working practices, XP values & pair programming
+OOP - Ruby, Javascript, Rails and Java
+TDD - Rspec, Jasmine, Capybara and JUnit
+Version control via GitHub
+Other areas covered - AWS (S3, Lambda, DynamoDB & Alexa Skills Kit), Sintara, Heroku, command line, Postgres, HTML and CSS.
 
 ##### University College of St Mark and St John's (Sept 2000 to Jun 2003)
 
 - 2.1 Youth and Community Studies (BA Hons)
 
 
-#### Employment and Experience
+### Employment and Experience
 
 Royal Borough of Greenwich (Oct 2013 to Sept 2016)    
 Housing Options and Support Officer (1st Base - Young People's Team)
@@ -66,7 +66,7 @@ Support Officer / Team Leader
 - Team Leader -- Managing a staff team of six for two years involving managing poor performance, poor attendance and redundancy; completing quarterly monitoring statistics, and liaising with partner agencies on a daily basis.
 
 
-#### Blurb
+### Blurb
 - My heroes include my wife and my sister-in-laws, and Louise Belcher.
 - My big life achievement was going travelling around Australia and New Zealand for 18 months.
 - I love gaming and binge watching great tv shows.
