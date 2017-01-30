@@ -39,7 +39,7 @@ During the final project we wanted the parent to be able to confirm once a chore
 
 ##### Makers Academy (Sept to Dec 2016)
 
-[Maker's Academy](http://employers.makersacademy.com/) is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  
+[Makers Academy](http://employers.makersacademy.com/) is Europe's leading Web Developer bootcamp; a 16 week intensive course supporting students to learn the principles of code craftsmanship.  
 
 Agile working practices, XP values & pair programming<br>
 OOP - Ruby, Javascript, Rails and Java<br>
