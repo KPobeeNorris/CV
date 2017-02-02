@@ -24,15 +24,38 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 **Communication**
 
-I believe that my most valuable and transferable skill is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.   
+Working in Social Care I developed skills that enable me to:
+
+* Work in partnership with professionals from a wide range of disciplines;
+* Complete comprehensive assessments of service user needs and gathering information from them, their family members and other professional agencies;
+* Regularly chair meetings with service users and professionals to get the best outcome for the client.
+
+At Makers I worked effectively in team and pair programming settings and was able to:
+
+* Support my pair and team members by breaking down ideas and problems through discussion and diagramming;
+* Be supportive and create an environment where everyone could share their ideas;
+* Work collaboratively with my pair and regularly switch between driving and navigating roles.
 
 **Working under pressure & being able to prioritise workloads**
 
-My previous roles required working with individuals and families at the point of crisis.  I am used to working within strict timescales; information gathering; making detailed assessments; prioritising complex needs to be fulfilled by limited budgets and negotiating best outcomes with a range of supporting organisations.  I am able to analyse information and situations easily and have strong communication skills which I’m able to apply to a diverse range of people.
+In my previous career I worked with clients at a point of crisis, requiring me to:
+
+* Work within strict timescales for completing assessments;
+* Prioritise the complex needs of clients and make appropriate referrals to partner agencies.
+
+During the project weeks at Makers we:
+
+* Held regular stand-ups and retros;
+* Used Waffle to support us in managing our issues, achieve our MVP and manage our work flow effectively.
 
 **Creative Thinker**
 
-During the final project we wanted the parent to be able to confirm once a chore had been completed, but were faced with the issue that the Alexa system doesn't have voice recognition.  I implemented a pin code system so that each time a chore was created, a random 4 digit number was generated; this was only ever visible on the parent's phone and had to be said to Alexa when confirming a chore was complete.   
+Working in a Social Care environment means designing tailored plans for each client by:
+
+* Prioritising clients’ needs to be fulfilled by limited budgets;
+* Negotiating best outcomes with a range of supporting organisations who have differing criteria.
+
+During our final project at Makers we were faced with the issue that the Alexa system doesn't have voice recognition, so I implemented a pin code system that generated a security code for each chore.
 
 
 ### Education
