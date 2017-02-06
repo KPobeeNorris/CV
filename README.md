@@ -21,7 +21,7 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 
 **Communication**
 
-I believe that one of my key transferable skills is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.  Whilst at Makers there was a focus on pair programming and this allowed me to work collaboratively with a wide range of people and develop the skills needed to make this success such as actively listening and swapping navigator/driver roles regularly. 
+I believe that one of my key transferable skills is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.  Whilst at Makers there was a focus on pair programming and this allowed me to work collaboratively with a wide range of people and develop the skills needed to make this a success - such as actively listening and swapping navigator/driver roles regularly. 
 
 **Working under pressure & being able to prioritise workloads**
 
