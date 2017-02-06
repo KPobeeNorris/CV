@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Employment and Experience](#employment-and-experience) | [Blurb](#blurb) |
 
-**Full Stack Junior Developer**
+**Web Developer**
 
 I have been interested in tech from a young age; I was lucky enough to have a nerdy dad and have taken after him, and treasure the spark/encouragement he gave me.  I was all geared up to have a career in tech, but during my A-Levels chose to go into Social Care instead.  However, it took experiencing a tragic situation at work to make me realise that there is no time to waste in this life and you need to go after the things you're passionate about, so I made the decision to return to my original calling - tech.
 
