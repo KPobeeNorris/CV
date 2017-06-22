@@ -14,14 +14,14 @@ For a complete list, please visit my [GitHub](https://github.com/KPobeeNorris?ta
 | Project                       | Description                                             | Technologies                       |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [ChoreMatick](https://github.com/KPobeeNorris/ChoreMatick/tree/master/chorematick)      | An Amazon Alexa skill for parents to set their child chores; watch our ['advert'](https://www.youtube.com/watch?v=jK6xQBi9nB4) here.                  | Java 8, Alexa Skills Kit, AWS Lambda and DynamoDB   | JUnit, Mockito and Codeship       |
-|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts) | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
+|[Instagram-Clone](https://github.com/KPobeeNorris/instagram-challenge)                   | An Instagram-clone website created in a 2 day period.  For deployed website:  [Gonna Post y'all](https://gonna-post-yall.herokuapp.com/posts) | Rails, AWS S3, omniauth-Facebook & Heroku     | Rspec & Capybara                  |
 
 
 ### Skills
 
 **Communication**
 
-I believe that one of my key transferable skills is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.  Whilst at Makers there was a focus on pair programming and this allowed me to work collaboratively with a wide range of people and develop the skills needed to make this a success - such as actively listening and swapping navigator/driver roles regularly. 
+I believe that one of my key transferable skills is my ability to communicate with people.  I have over a decade's experience of working alongside professionals from various organisations, and in a variety of settings.  This includes attending multiagency case discussions, giving reports at Child Protection Meetings and attending court hearings to advocate for young people.  Whilst at Makers there was a focus on pair programming and this allowed me to work collaboratively with a wide range of people and develop the skills needed to make this a success - such as actively listening and swapping navigator/driver roles regularly.
 
 **Working under pressure & being able to prioritise workloads**
 
